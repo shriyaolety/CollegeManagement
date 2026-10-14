@@ -3,3 +3,5 @@ Student Name: Shriya
 Roll Number: 042
 Department: CSD
 Semester: 5
+Attendance: 85%
+Result: PASS
